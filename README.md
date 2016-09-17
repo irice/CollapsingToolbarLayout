@@ -17,4 +17,4 @@ ToolBar 折叠模式：pin<br>
 设置到Toolbar上不会显示，代码设置是setTitle()<br>
 收缩时候title颜色setCollapsedTitleTextColor();颜色会自动过渡<br>
 </p>
-<image src=""demo.gif">
+<image src="demo.gif">
